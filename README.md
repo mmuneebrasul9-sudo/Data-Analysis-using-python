@@ -92,16 +92,8 @@ Processing approximately 10.9 million raw CSV rows (over 1.6 GB) on standard har
 
 | Vendor Name | Technology Provider | Market Share (Trips) | Market Share (Revenue) |
 | --- | --- | --- | --- |
-| **Vendor 2** | VeriFone Inc. | 53.9%
-
- | 54.3%
-
- |
-| **Vendor 1** | Creative Mobile Technologies | 46.1%
-
- | 45.7%
-
- |
+| **Vendor 2** | VeriFone Inc. | 53.9% | 54.3% |
+| **Vendor 1** | Creative Mobile Technologies | 46.1% | 45.7% |
 
 **Rate Code Breakdown:**
 
