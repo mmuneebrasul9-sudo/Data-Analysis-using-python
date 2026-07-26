@@ -156,22 +156,6 @@ Processing approximately 10.9 million raw CSV rows (over 1.6 GB) on standard har
 
 ---
 
-## Project Structure & Technology Stack
-
-**Repository Assets:**
-
-* **`NYC_EDA_Presentation_Slides.pdf`**: Executive slide deck presentation outlining visual findings.
-
-
-* **`yellow_tripdata_2016-01.parquet`**: Optimized and chunk-processed Parquet dataset.
-
-
-* **`EDA_NYC_Taxi.ipynb`**: Primary Jupyter Notebook containing the data pipeline, analysis, and modeling code.
-
-
-* **Exported Visualizations**: Saved outputs including `trip_duration_distribution.png`, `fare_per_mile_heatmap.png`, and `average_speed_heatmap.png`.
-
-
 
 **Technology Stack:**
 
@@ -184,4 +168,4 @@ Processing approximately 10.9 million raw CSV rows (over 1.6 GB) on standard har
 * **Data Visualization:** matplotlib, seaborn
 
 
-* **Environment:** Jupyter Notebook / Anaconda
+* **Environment:** Jupyter Notebook 
